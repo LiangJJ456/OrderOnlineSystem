@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="order">
+    <output-path>$PROJECT_DIR$/out/artifacts/order</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LiangZhenJi_OrderedOnlineSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-fileupload-1.2.2.jar" module-name="LiangZhenJi_OrderedOnlineSystem" />
+          <element id="library" level="module" name="commons-io-2.0.1.jar" module-name="LiangZhenJi_OrderedOnlineSystem" />
+          <element id="library" level="module" name="mysql-connector-java-5.0.8-bin.jar" module-name="LiangZhenJi_OrderedOnlineSystem" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
